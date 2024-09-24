@@ -35,6 +35,10 @@ Create visualizations showing the monthly customer retention per product line to
   - Marketing campaign data
   - Detailed transaction information, including discounts
 
+### Visualization
+![image](https://github.com/user-attachments/assets/12ea340f-812f-400d-bec9-b09b7a403be1)
+Tableau public(https://public.tableau.com/app/profile/hyoeun.kim/viz/Tableau_cohort_customer_retention/Dashboard1?publish=yes)
+
 ## Conclusion
 
 This project helped me practice SQL and data visualization skills. The insights gained from the analysis can help understand customer retention patterns and identify areas for improvement.
