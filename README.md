@@ -36,7 +36,7 @@ Create visualizations showing the monthly customer retention per product line to
   - Detailed transaction information, including discounts
 
 ### Visualization
-![image](https://github.com/user-attachments/assets/12ea340f-812f-400d-bec9-b09b7a403be1)
+![image](https://github.com/user-attachments/assets/ae50e953-bf14-4f78-97be-db81cd7a2cdd)
 Tableau public(https://public.tableau.com/app/profile/hyoeun.kim/viz/Tableau_cohort_customer_retention/Dashboard1?publish=yes)
 
 ## Conclusion
